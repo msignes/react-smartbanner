@@ -70,7 +70,6 @@ rules:
   brace-style: 2
   clean-import-paths: 2
   empty-args: 2
-  hex-length: 2
   hex-notation: 2
   indentation: 2
   leading-zero:
