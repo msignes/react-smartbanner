@@ -288,7 +288,7 @@ class SmartBanner extends Component {
       `${this.props.url[this.state.type]}` ||
       this.state.settings.getStoreLink() + this.state.appId;
     const inStore = `
-      ${this.props.price[this.state.type]} - ${
+      ${this.props.price[this.state.type]}${
   this.props.storeText[this.state.type]
 }`;
     let icon;
